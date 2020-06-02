@@ -62,7 +62,7 @@ if (!xfun::loadable('sigma', new_session = TRUE)) source('https://install-github
 # 前言 {-}
 
 ```{asis, echo=identical(knitr:::pandoc_to(), 'html')}
-**提醒**: This book has been published by [Chapman & Hall/CRC](https://www.crcpress.com/p/book/9781138359338). The online version of this book is free to read here (thanks to Chapman & Hall/CRC), and licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+**提醒**: 这本书已经由 [Chapman & Hall/CRC](https://www.crcpress.com/p/book/9781138359338) 出版。这本书的线上版本在这里可以免费阅读（感谢 Chapman & Hall/CRC）（英文版本[点击此处](https://bookdown.org/yihui/rmarkdown/)阅读），以[知识共享署名-非商业性-相同方式共享4.0国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)发行。
 
 <p style="text-align: center;"><a href="https://www.crcpress.com/p/book/9781138359338"><img src="images/cover.png" alt="The R Markdown book cover" /></a></p>
 ```

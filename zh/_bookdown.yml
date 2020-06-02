@@ -1,11 +1,12 @@
 book_filename: rmarkdown
-repo: https://github.com/rstudio/rmarkdown-book/
+repo: https://github.com/ShixiangWang/rmarkdown-book/
 output_dir: _book
 clean: [packages.bib]
 language:
   label:
-    fig: "FIGURE "
-    tab: "TABLE "
+    fig: "图 "
+    tab: "表 "
   ui:
-    chapter_name: "Chapter "
+    edit: "编辑"
+    chapter_name: ["第 ", " 章"]
 delete_merged_file: true
